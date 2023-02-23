@@ -10,9 +10,11 @@ Right now I'm on my second of year of college.\
 I am also a member of [__CeSIUM__](https://github.com/cesium), a student association made up of Software Engineering students.\
 I also participate in [__CoderDojo Braga__](https://coderdojobraga.org) where we tutor kids from the age of 7 to 17 about programming.
 
+### Contacts
 
+Email: pinto.julioj03@gmail.com
 
-
+### See you around 👋
 
 <!--
 **JulioJPinto/JulioJPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
