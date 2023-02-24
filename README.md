@@ -20,7 +20,7 @@ I also participate in [__CoderDojo Braga__](https://coderdojobraga.org) where we
 
 ## Contacts
 
-Email: pinto.julioj03@gmail.com
+__Email: pinto.julioj03@gmail.com__
 
 # See you around 👋
 
