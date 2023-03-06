@@ -1,7 +1,6 @@
 # Hi there 👋
 
-My name is __Júlio__ and I'm a Software Engineering Student at U. Minho, Braga 👋
-
+My name is __Júlio__ and I'm a Software Engineering Student at U. Minho, Braga 👋\
 I'm passionate about programming, design and video games.
 
 ## About me
@@ -12,14 +11,14 @@ I also participate in [__CoderDojo Braga__](https://coderdojobraga.org) where we
 
 ## Personal Projects
 
-#### WIP
+### WIP
 - [__Linker__](https://github.com/JulioJPinto/linker)
 
 ## College Projects
 ### WIP
 - [__RC__](https://github.com/JulioJPinto/RC)
 
-#### Finished
+### Finished
 - [__LI3 Project__](https://github.com/JulioJPinto/li3-project)
 - [__LI2 Project__](https://github.com/JulioJPinto/li2-project)
 
