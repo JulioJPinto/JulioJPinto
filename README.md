@@ -7,7 +7,8 @@ I'm passionate about programming, design and video games.
 
 Right now I'm on my second of year of college.\
 I am also a member of [__CeSIUM__](https://github.com/cesium), a student association made up of Software Engineering students.\
-I also participate in [__CoderDojo Braga__](https://coderdojobraga.org) where we tutor kids from the age of 7 to 17 about programming.
+I also participate in [__CoderDojo Braga__](https://coderdojobraga.org) where we tutor kids from the age of 7 to 17 about programming.\
+You can check my curriculum [__here__](https://github.com/JulioJPinto/curriculum/blob/main/curriculum.pdf).
 
 ## Personal Projects
 
