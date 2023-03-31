@@ -10,18 +10,14 @@ I am also a member of [__CeSIUM__](https://github.com/cesium), a student associa
 I also participate in [__CoderDojo Braga__](https://coderdojobraga.org) where we tutor kids from the age of 7 to 17 about programming.\
 You can check my curriculum [__here__](https://github.com/JulioJPinto/curriculum/blob/main/curriculum.pdf).
 
-## Personal Projects
+## Projects
+A few projects I have worked on.
+- [__Shuriken__](https://github.com/coderdojobraga/shuriken)
 
-### WIP
-- [__Linker__](https://github.com/JulioJPinto/linker)
-
-## College Projects
-### WIP
-- [__RC__](https://github.com/JulioJPinto/RC)
-
-### Finished
+### Personal
 - [__LI3 Project__](https://github.com/JulioJPinto/li3-project)
 - [__LI2 Project__](https://github.com/JulioJPinto/li2-project)
+- [__Linker__](https://github.com/JulioJPinto/linker)
 
 ## Contacts
 
