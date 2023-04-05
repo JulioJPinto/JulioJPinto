@@ -10,7 +10,7 @@ I like playing video games such as Zelda and Valorant.\
 I also like to explore design composition and other areas of design like Marketing and UI/UX.\
 You can check my curriculum [__here__](https://github.com/JulioJPinto/curriculum/blob/main/curriculum.pdf).
 ### Organizations
-[__CeSIUM__](https://github.com/cesium) - Centro de Estudantes de Engenharia Informática da UMinho, is the Software Engineering Student Association of UMinho.\
+[__CeSIUM__](https://github.com/cesium) - is the Software Engineering Student Association of UMinho.\
 [__CoderDojo Braga__](https://github.com/coderdojobraga) - is a Project run by CeSIUM that integrates CoderDojo.
 
 ## Projects
