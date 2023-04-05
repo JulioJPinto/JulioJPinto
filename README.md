@@ -15,13 +15,18 @@ You can check my curriculum [__here__](https://github.com/JulioJPinto/curriculum
 
 ## Projects
 A few projects I have worked on.
+#### Orgs
 - [__LearningChain__](https://github.com/HexaTable/LearningChain)
 - [__Shuriken__](https://github.com/coderdojobraga/shuriken)
 
-### Personal/College Projects
+#### Personal 
+- [__Hydrogen__](https://github.com/JulioJPinto/hydrogen)
+
+#### College
 - [__LI3 Project__](https://github.com/JulioJPinto/li3-project)
 - [__LI2 Project__](https://github.com/JulioJPinto/li2-project)
-- [__Linker__](https://github.com/JulioJPinto/linker)
+
+
 
 ## Contacts
 
