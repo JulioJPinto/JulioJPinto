@@ -13,21 +13,6 @@ You can check my curriculum [__here__](https://github.com/JulioJPinto/curriculum
 [__CeSIUM__](https://github.com/cesium) - is the Software Engineering Student Association of UMinho.\
 [__CoderDojo Braga__](https://github.com/coderdojobraga) - is a Project run by CeSIUM that integrates CoderDojo.
 
-## Projects
-A few projects I have worked on.
-#### Orgs
-- [__LearningChain__](https://github.com/HexaTable/LearningChain)
-- [__Shuriken__](https://github.com/coderdojobraga/shuriken)
-
-#### Personal 
-- [__Hydrogen__](https://github.com/JulioJPinto/hydrogen)
-
-#### College
-- [__LI3 Project__](https://github.com/JulioJPinto/li3-project)
-- [__LI2 Project__](https://github.com/JulioJPinto/li2-project)
-
-
-
 ## Contacts
 
 __Email: pinto.julioj03@gmail.com__
