@@ -11,9 +11,9 @@ This is basically a markdown to help anyone looking for my college projects
 
 - [**Software Labs III - Uber** (LI3)](https://github.com/JulioJPinto/li3-project)
 - **POO**  Not yet available[^1]
-- **SO** Not yet available
+- [**SO - Server/Client Request Machine**](https://github.com/JulioJPinto/SO-project)
 - **IO** Not yet available
-- [**RC**](https://github.com/JulioJPinto/rc-projects) All TPs can be found here
+- [**RC - Projects**](https://github.com/JulioJPinto/RC-projects) All TPs can be found here
 - **BD**  Not yet available
 - **MNOL** Not yet available
 
