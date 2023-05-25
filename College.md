@@ -13,7 +13,7 @@ This is basically a markdown to help anyone looking for my college projects
 - **POO**  Not yet available[^1]
 - [**SO - Server/Client Request Machine**](https://github.com/JulioJPinto/SO-project)
 - **IO** Not yet available
-- [**RC - Projects**](https://github.com/JulioJPinto/RC-projects) All TPs can be found here
+- [**RC - Projects/Summaries**](https://github.com/JulioJPinto/RC-projects) All TPs can be found here
 - **BD**  Not yet available
 - **MNOL** Not yet available
 
