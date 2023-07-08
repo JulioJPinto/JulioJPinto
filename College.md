@@ -18,7 +18,13 @@ This is basically a markdown to help anyone looking for my college projects
 - [**MNOnL - Image Processing**](https://github.com/JulioJPinto/MNOnL-project)
 
 ### 3rd year
+- CC
+- CP
+- DSS
+- IA
+- LI4
+- SD
+- ADI
+- CG
+- PL
 
-Im still on my second year
-
-[^1]: Once the semester ends all of theses will be added
