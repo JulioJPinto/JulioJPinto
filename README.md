@@ -12,7 +12,7 @@ I also like to explore design composition and other areas of design like Marketi
 
 #### Experience
 I'm also a member of [__CeSIUM__](https://github.com/cesium), the Software Engineering Student Association of UMinho, and a mentor at [__CoderDojo Braga__](https://github.com/coderdojobraga) a Project run by CeSIUM that integrates the CoderDojo movement.\
-You can check my curriculum [__here__](https://github.com/JulioJPinto/curriculum/blob/main/curriculum.pdf).
+You can check my curriculum [__here__](https://github.com/JulioJPinto/curriculum/blob/main/curriculum-julio.pdf).
 
 #### Projects
 If you wanna check my college projects just click [here](https://github.com/JulioJPinto/JulioJPinto/blob/main/College.md)\
