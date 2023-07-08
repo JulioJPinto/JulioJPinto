@@ -13,7 +13,7 @@ This is basically a markdown to help anyone looking for my college projects
 - [**POO - Vinted Store**](https://github.com/JulioJPinto/POO-Project)  
 - [**SO - Server/Client Request Machine**](https://github.com/JulioJPinto/SO-project)
 - **IO** Not yet available
-- [**RC - Projects/Summaries**](https://github.com/JulioJPinto/RC-projects) All TPs can be found here
+- [**RC - Projects/Summaries**](https://github.com/JulioJPinto/RC-projects) 
 - **BD**  Not yet available
 - [**MNOnL - Image Processing**](https://github.com/JulioJPinto/MNOnL-project)
 
